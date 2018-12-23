@@ -1,0 +1,111 @@
+
+#div_header
+    {
+        width: 100%;
+        height: 6%;
+        background-color: rgb(131, 216, 231);
+    }
+#div_header_span
+    {
+        margin-top: 1%;
+        float : left;
+        margin-left: 15%;
+        font-family: "Arial Black", Arial, Verdana, sans-serif;
+        font-size: 140%;
+        font-style: normal;
+        color: rgb(109, 95, 95);
+    }   
+#seconnecter
+    {
+        width: 15%;
+        height: 70%; 
+        color: white;
+        background-color: orange;
+        margin-top: 0.5%;
+        font-size: 150%;
+        float: right;
+        margin-right: 5%;
+        font-weight:bold;
+    }
+
+    .span_textnous
+    {
+        float: left;
+        font-size: 100%;
+        color: rgb(109, 95, 95);
+    }
+#oublimdp
+    {
+        position: absolute;
+        font-size: 90%;
+        color: blue;
+        margin-left: 1%;
+        /* top:17%;
+        left:65%;
+        bottom: 81%; */
+    }  
+
+span
+    {
+        font-family: "Arial Black", Arial, Verdana, sans-serif;
+        font-size: 200%;
+        /* font-weight: bold; */
+        font-style: italic;
+        text-align: center;
+        color: yellow;
+    }
+#div_sur_footer
+    {
+        margin-top: 1%;         
+        width: 100%;
+        height: 49%;
+        background-color: rgb(131, 216, 231);
+    }
+.boutonorange
+    {
+        width: 15%;
+        height: 8%; 
+        color: white;
+        background-color: orange;
+        margin-top: 1%;
+        font-size: 150%;
+        float: right;
+        margin-right: 5%;
+        font-weight:bold;
+        
+    }
+form
+{
+    margin-top: 6%;
+}
+#login
+{
+    float: left;
+    margin-left: 14%;
+    font-size: 100%;
+}
+#acces
+{
+    float: left;
+    margin-left: 24%;
+    font-size: 100%;
+}
+#validez
+    {
+        float: left;
+        margin-left: 40%;
+        font-size: 100%;
+    }
+#div_textnous
+{
+        width:80%;
+        height: 70%;
+        margin-left: 10%;
+        padding-top: 3%;
+        font-family: "Arial Black", Arial, Verdana, sans-serif;
+        font-size: 120%;
+        color: rgb(109, 95, 95);
+}
+ 
+
+
